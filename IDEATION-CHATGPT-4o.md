@@ -8,21 +8,22 @@ Here's the content of that session
 
 ----
 
-Report content
+h1. Prompt
 
-You said:
 Ask me one question at a time so we can develop a thorough, step-by-step spec for this idea. Each question should build on my previous answers, and our end goal is to have a detailed specification I can hand off to a developer. Let’s do this iteratively and dig into every relevant detail. Remember, only one question at a time.
 
 Here’s the idea:
 
 I'd like to develop a very minimal online cloud based resource for tracking links and content from the web. It should be inexpensive, lightweight and easy to query from within an LLM assistance such as ChatGPT or Apple Intelligence. I would like to make it open source, hosted on GitHub and easy for others to install and use.
-ChatGPT said:
+
+*ChatGPT said:*
+
 Great! Let's start with the core functionality.
 
 Question 1:
 What specific types of web resources do you want to track? Are we focusing on just URLs, or should the system also capture metadata like page titles, summaries, timestamps, tags, or content snapshots?
 
-You said:
+*You said:*
 Links to blog posts, to videos and podcasts, and to useful websites. 
 ChatGPT said:
 Got it! Your system will track links to blog posts, videos, podcasts, and useful websites.
